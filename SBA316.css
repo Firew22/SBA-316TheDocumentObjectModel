@@ -4,6 +4,7 @@
      text-align: center;
      margin: 0;
      padding: 0;
+     color: #fff;
  }
 
  h1 {
@@ -27,7 +28,7 @@
  button {
      padding: 10px 20px;
      font-size: 16px;
-     background-color: #2fc2d6;
+     background-color: #036c7a;
      color: #fff;
      border: none;
      border-radius: 5px;
@@ -44,7 +45,8 @@
  }
 
  li {
-     background-color: #2fc2d6;
+     background-color: #036c7a;
+    
      padding: 10px;
      margin: 5px 0;
      border-radius: 10px;
@@ -59,7 +61,7 @@
      background-color: #000000;
      color: #fff;
     border: none;
-     border-radius: 0%;
+     border-radius: 15%;
      cursor: pointer;
      padding: 5px;
  }
