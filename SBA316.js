@@ -1,6 +1,6 @@
 
 
-    // document.addEventListener("DOMContentLoaded", () => {
+   
         const movieForm = document.getElementById("movieForm");
         const movieInput = document.getElementById("movieInput");
         const genreSelect = document.getElementById("genreSelect");
